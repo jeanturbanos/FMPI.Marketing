@@ -33,8 +33,8 @@ namespace FMPI.Marketing.Api
             services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1", new Info{
                     Version = "v1",
-                    Title = "My API",
-                    Description = "Net Core Web API",
+                    Title = "Jean's API",
+                    Description = "Jean's Core Web API",
                     TermsOfService = "None"
                 });
             });
