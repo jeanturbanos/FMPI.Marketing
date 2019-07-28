@@ -1,0 +1,9 @@
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\bin\Debug\netstandard2.0\FMPI.Marketing.Core.deps.json
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\bin\Debug\netstandard2.0\FMPI.Marketing.Core.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\bin\Debug\netstandard2.0\FMPI.Marketing.Core.pdb
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.csprojAssemblyReference.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.AssemblyInfoInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.AssemblyInfo.cs
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Core\obj\Debug\netstandard2.0\FMPI.Marketing.Core.pdb

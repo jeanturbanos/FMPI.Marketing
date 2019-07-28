@@ -48,6 +48,7 @@ namespace FMPI.Marketing.Api
                 app.UseDeveloperExceptionPage();
             }
             else
+            
             {
                 app.UseHsts();
             }

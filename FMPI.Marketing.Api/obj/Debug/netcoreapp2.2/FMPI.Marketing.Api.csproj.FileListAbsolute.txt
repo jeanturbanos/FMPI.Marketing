@@ -1,0 +1,17 @@
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Api.deps.json
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Api.runtimeconfig.json
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Api.runtimeconfig.dev.json
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Api.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Api.pdb
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.csprojAssemblyReference.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.RazorAssemblyInfo.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.RazorAssemblyInfo.cs
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.AssemblyInfoInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.AssemblyInfo.cs
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.RazorTargetAssemblyInfo.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.pdb
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Core.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\bin\Debug\netcoreapp2.2\FMPI.Marketing.Core.pdb
+D:\Projects\Repos\FMPI\FMPI.Marketing.Api\obj\Debug\netcoreapp2.2\FMPI.Marketing.Api.csproj.CopyComplete
