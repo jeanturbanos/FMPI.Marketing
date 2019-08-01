@@ -23,7 +23,10 @@ namespace FMPI.Marketing.Api.Controllers
         [HttpGet]
         public string Get()
         {
-            return JsonConvert.SerializeObject(_context.InventoryMaster2.Take(100));
+            
+            List<InventoryMaster2> itemList = _context.InventoryMaster2.Take(100).ToList();
+            
+            //return JsonConvert.SerializeObject();
         }
         // public ActionResult<IEnumerable<string>> Get()
         // {

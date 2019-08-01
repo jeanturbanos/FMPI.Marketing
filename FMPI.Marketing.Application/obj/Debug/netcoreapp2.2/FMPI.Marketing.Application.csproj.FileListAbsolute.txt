@@ -1,0 +1,9 @@
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\bin\Debug\netcoreapp2.2\FMPI.Marketing.Application.deps.json
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\bin\Debug\netcoreapp2.2\FMPI.Marketing.Application.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\bin\Debug\netcoreapp2.2\FMPI.Marketing.Application.pdb
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.csprojAssemblyReference.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.AssemblyInfoInputs.cache
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.AssemblyInfo.cs
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.dll
+D:\Projects\Repos\FMPI\FMPI.Marketing.Application\obj\Debug\netcoreapp2.2\FMPI.Marketing.Application.pdb
